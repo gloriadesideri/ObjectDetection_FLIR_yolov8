@@ -1,0 +1,12 @@
+names:
+- humans
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: pedestriandetection-idtcn
+  url: https://universe.roboflow.com/gloria-dsjfd/pedestriandetection-idtcn/dataset/1
+  version: 1
+  workspace: gloria-dsjfd
+test: ../test/images
+train: PedestrianDetection-1/train/images
+val: PedestrianDetection-1/valid/images
